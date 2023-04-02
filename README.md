@@ -6,8 +6,8 @@
   <div align="left">
   <font size = 4><h3 align="center"> About me </h3></font>
   <hr>
-  <h4> 1. Hi, my name is Ida 🎀</h4>
-  <h4> 2. I am a novice frontend developer with 11 months of experience ❤️</h4>
+  <h4> 1. Hi, my name is Ida 🤯</h4>
+  <h4> 2. I am a novice frontend developer ❤️</h4>
   <h4> 3. I work in HTML, CSS and JavaScript and have some experience with ReactJS 😇</h4>
   <h4> 4. I create high-quality, intuitive and aesthetically pleasing websites 💎</h4>
   <h4> 5. I am constantly learning new things and striving to develop my skills to become a professional developer. On my GitHub page you can find my projects and see my progress in this field. I am open for collaboration and ready for new challenges 👑</h4>
