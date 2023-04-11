@@ -27,6 +27,7 @@
   alt="Python" width="40" height="40">
   <img  src="https://user-images.githubusercontent.com/120786298/208248100-eff2a240-d5fe-447a-ab84-fe9e050e4f3e.png" alt="Terminal"       width="40" height="40">
   <img  src="https://user-images.githubusercontent.com/120786298/224068047-866e829e-ee59-4250-8ce7-635eddd73195.png" alt="TypeScript"         width="40" height="40">
+  <img  src="https://user-images.githubusercontent.com/120786298/231153719-6f4f3e78-4b57-46cb-981a-94ff1066d8fc.png" alt="Redux"         width="40" height="40">
  </div>
 
   <hr>
