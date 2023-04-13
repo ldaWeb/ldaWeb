@@ -10,7 +10,7 @@
   <h4> ★ I am a frontend developer</h4>
   <h4> ★ I write code in HTML, CSS and JavaScript and have some experience with ReactJS. I also plan to learn ReactJS, TypeScript and Redux </h4>
   <h4> ★ Create high-quality, intuitive and aesthetically pleasing websites</h4>
-  <h4> <img  src="https://user-images.githubusercontent.com/120786298/231804545-b7a97974-7da1-4729-9b9a-0e40ae552f7f.png" width="8" height="8"> You can also see my projects in the repositories</h4>
+  <h4> <img  src="https://user-images.githubusercontent.com/120786298/231804545-b7a97974-7da1-4729-9b9a-0e40ae552f7f.png" alt="Ida" width="10" height="10"> You can also see my projects in the repositories</h4>
  
   <hr>
 
