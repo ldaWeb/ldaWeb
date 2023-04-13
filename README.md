@@ -7,10 +7,10 @@
   <font size = 4><h3 align="center"> About me </h3></font>
   <hr>
   <h4> ★ Hi, my name is Ida 👋</h4>
-  <h4> ★ I am a novice frontend developer ❤️</h4>
-  <h4> ★ Work in HTML, CSS and JavaScript and have some experience with ReactJS 😇</h4>
-  <h4> ★ Create high-quality, intuitive and aesthetically pleasing websites 💎</h4>
-  <h4> ★ Am constantly learning new things and striving to develop my skills to become a professional developer. On my GitHub page you can find my projects and see my   progress in this field. I am open for collaboration and ready for new challenges 📈</h4>
+  <h4> ★ I am a frontend developer ❤</h4>
+  <h4> ★ I write code in HTML, CSS and JavaScript and have some experience with ReactJS. I also plan to learn ReactJS, TypeScript and Redux </h4>
+  <h4> ★ Create high-quality, intuitive and aesthetically pleasing websites </h4>
+  <h4> ★ You can also see my projects in the repositories </h4>
  
   <hr>
 
