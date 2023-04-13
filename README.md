@@ -6,11 +6,11 @@
   <div align="left">
   <font size = 4><h3 align="center"> About me </h3></font>
   <hr>
-  <h4> ★ Hi, my name is Ida 👋</h4>
+  <h4> ★ Hi, my name is Ida! </h4>
   <h4> ★ I am a frontend developer</h4>
   <h4> ★ I write code in HTML, CSS and JavaScript and have some experience with ReactJS. I also plan to learn ReactJS, TypeScript and Redux </h4>
   <h4> ★ Create high-quality, intuitive and aesthetically pleasing websites</h4>
-  <h4> <img  src="https://user-images.githubusercontent.com/120786298/231804545-b7a97974-7da1-4729-9b9a-0e40ae552f7f.png" alt="Ida" padding-rigth="20" width="33" height="33"> You can also see my projects in the repositories</h4>
+  <h4> ★ You can also see my projects in the repositories</h4>
  
   <hr>
 
