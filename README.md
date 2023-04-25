@@ -1,7 +1,7 @@
 <font face = "Play">
  <font color = #d58cff size = 6><h1 align="center">IdaWeb</h1></color></font>
- <div align="center"><img src="https://media3.giphy.com/media/4knozU8q9AXvpod9qy/giphy.gif" alt="code" width="90%"></div>
- <div align="center"><img src="https://media0.giphy.com/media/KB7Moe2Oj0BXeDjvDp/giphy.gif" alt="the wekend" width="90%"></div>
+ <div align="center"><img src="https://user-images.githubusercontent.com/120786298/234270162-7ed57f65-1274-4e51-b273-c536fbf4e1c1.gif" alt="code" width="90%"></div>
+<!--  <div align="center"><img src="https://media0.giphy.com/media/KB7Moe2Oj0BXeDjvDp/giphy.gif" alt="the wekend" width="90%"></div> -->
  
   <div align="left">
   <font size = 4><h3 align="center"> About me </h3></font>
@@ -33,5 +33,3 @@
   <hr>
 
 </font>
-
-
